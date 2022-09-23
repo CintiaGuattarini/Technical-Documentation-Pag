@@ -1,0 +1,214 @@
+
+body{
+    margin: -5px;
+    margin-top: 0px;
+    top: 0;
+}
+
+
+.titulo{
+    text-align: center;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   padding:40px 0 40px 0;
+   font-family: 'Saira', sans-serif;
+   font-family: 'Varela Round', sans-serif;
+    font-size: 58px;
+    color: #ddd3ca;
+    text-shadow: 2px 4px #180f0fa9;
+    background-color: #a6a4a7;
+}
+
+#Docu{
+    font-size: 20px;
+    font-family: 'Saira', sans-serif;
+   font-family: 'Varela Round', sans-serif;
+   color: rgb(84, 79, 67);
+   padding: 20px;
+}
+
+
+#navbar{
+    background-color: #ddd3ca;
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+    
+}
+
+.ul-anime{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#navbar li{
+    color: #4d4e53;
+    border-top: 1px white solid;
+    list-style: none;
+    position: relative;
+    width: 100%;
+    margin-left: 0px;
+    display: flex;
+    margin-top: 0px;
+    box-shadow: inset -5px -5px 10px 0px rgba(255, 255, 255, 0.5), inset 5px 5px 10px 0px rgba(0, 0, 0, 0.3);
+}
+
+.nav-link{
+    margin-top: 0px;
+    margin-left: 0%;
+    font-family: 'Saira', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 35px;
+    color: rgb(77, 9, 9);
+    text-decoration: none;
+    padding: 15px 5px 15px 5px;
+}
+ 
+#main-doc{
+ background-color: #c6c4c5;
+    margin-left: 310px;
+   
+}
+.main-section{
+    font-family: 'Saira', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#articulo{
+    padding: 40px;
+    margin: 0 90px 0 30px;
+}
+/*imagen de tutulo de Dragon Ball*/
+#DG{
+    background-image: url(https://www.tonica.la/__export/1606671002355/sites/debate/img/2020/11/29/goku-tiene-que-tener-nuevos-enemigos-en-el-prxximo-arco-de-dragon-ball-super.jpg_423682103.jpg);
+    background-position: -30px -410px;
+}
+/*imagen de tutulo de One piece*/
+#OP{
+    background-image: url(https://sm.ign.com/ign_es/feature/o/one-piece-/one-piece-whos-who-in-the-netflix-show_1xp5.jpg);
+    background-position: -62px 525px;
+}
+/*imagen de tutulo de Naruto*/
+#N{
+    background-image: url(https://laverdadnoticias.com/__export/1593448375833/sites/laverdad/img/2020/06/29/naruto_anime.jpg_2063718631.jpg);
+    background-position: 60px 766px;
+}
+/*imagen de tutulo de Hunter x Hunter*/
+#HXH{
+    background-image: url(https://areajugones.sport.es/wp-content/uploads/2022/08/killua-gon-hunter-x-hunter-1080x609.jpg);
+    background-position: 197px 486px;
+}
+/*imagen de tutulo de Slan Dunk*/
+#SD{
+    background-image: url(https://mobilepaladins.com/wp-content/uploads/2020/11/Slam-Dunk-mobile-game-image.png);
+    background-position: 198px 426px;
+}
+/*imagen de tutulo de Demon_Slayer*/
+#DS{
+    background-image: url(https://myotakuworld.com/wp-content/uploads/2020/07/Demon-Slayer.jpg);
+    background-position: -51px 426px;
+}
+/*imagen de tutulo de Death_Note*/
+#DN{
+    background-image: url(https://www.nintenderos.com/wp-content/uploads/2022/07/Death-note.jpg);
+    background-position: 224px 484px;
+}
+/*imagen de tutulo de Bleach*/
+#BL{
+    background-image:url(https://somoskudasai.com/wp-content/uploads/2022/09/portada_bleach-19.jpg) ;
+    background-position: -318px 673px;
+    
+}
+/*imagen de tutulo de Captain Tsubasa*/
+#CT{
+    background-image: url(https://sm.ign.com/t/ign_latam/screenshot/default/supercampeones_d8sa.1280.jpg);
+    background-position: 77px -93px;
+}
+/*imagen de tutulo de JoJos Bizarre Adventure*/
+#JBA{
+    background-image:url(https://www.desconsolados.com/wp-content/uploads/2022/08/Jojos-Bizarre-Adventure-All-Star-Battle-R.jpg) ;
+    background-position: 77px -154px;
+
+}
+.ref{
+    font-family: 'Saira', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+}
+
+
+
+.header-doc{
+   
+    color: black;
+    margin: 0px;
+    padding: 20px 0 20px 0;
+    text-align: start;
+    font-size: 1.8em;
+    font-weight: thin;
+    display: block;
+
+}
+.titulo_referencia{
+    font-size: 28px;
+}
+p{ 
+    margin-bottom: 0px;
+    font-size: 22px;}
+
+.masinfo{
+    display: flex;
+    justify-content: flex-end;
+}
+.header-ref{
+    font-family: 'Saira', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 50px;
+}
+footer{
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: rgba(34,30,31,255);
+}
+
+@media (width <= 410px){
+    h1{
+        text-align: right;
+    }
+    .titulo{
+       
+        text-align: right;
+        
+    
+    }
+    
+    .subtitulo{
+        
+        text-align: right;
+        
+        
+    }
+    #navbar{
+        position: none;
+        top:363px;
+       font-size: 30px;
+        
+    }
+    body{
+        background: rgb(235, 217, 103);
+        
+    }
+
+}
+
+
